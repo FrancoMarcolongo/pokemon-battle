@@ -12,7 +12,7 @@ la aplicación backend desarrollada en NestJS como la aplicación frontend desar
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/pokemon-battle.git
+   git clone https://github.com/FrancoMarcolongo/pokemon-battle.git
 2. **Correr la aplicación**
    ```bash
    npm run dev
