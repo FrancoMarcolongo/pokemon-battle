@@ -14,14 +14,14 @@ la aplicación backend desarrollada en NestJS como la aplicación frontend desar
    ```bash
    git clone https://github.com/FrancoMarcolongo/pokemon-battle.git
 2. **Correr la aplicación**
-   
-   En caso que sea la primera vez que se ejecuta usar el siguiente comando para forzar la instalación de dependencias:
+  Ir al directorio de 'pokemon-battle-backend', instalar dependencias y ejecutar con los comandos:
+
    ```bash
-   npm run dev:install
+   npm install
+   npm run start
    ```
-   Si las dependencias ya fueron instaladas puede ejecutarse con:
-   ```bash
-   npm run dev
+
+   Luego repetir estos pasos con el directorio 'pokemon-battle-frontend'
    
 ## Cómo utilizar la aplicación
 1. Seleccionar una tarjeta de pokemon
