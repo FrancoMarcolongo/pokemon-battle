@@ -14,9 +14,15 @@ la aplicación backend desarrollada en NestJS como la aplicación frontend desar
    ```bash
    git clone https://github.com/FrancoMarcolongo/pokemon-battle.git
 2. **Correr la aplicación**
+   
+   En caso que sea la primera vez que se ejecuta usar el siguiente comando para forzar la instalación de dependencias:
+   ```bash
+   npm run dev:install
+   ```
+   Si las dependencias ya fueron instaladas puede ejecutarse con:
    ```bash
    npm run dev
-
+   
 ## Cómo utilizar la aplicación
 1. Seleccionar una tarjeta de pokemon
 2. El contrincante será seleccionado aleatoria y automáticamente.
